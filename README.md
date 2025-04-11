@@ -6,14 +6,14 @@ Este repositorio reúne los proyectos desarrollados a lo largo de mi formación 
 
 ## 📁 Lista de proyectos:
 
-### * StrideSafe – Proyecto de Biodiseño 1 (2024)
+### * StrideSafe – Proyecto de Biodiseño 1 UPCH (2024)
 **Descripción**: Sistema portátil que mide presión plantar para prevenir caídas en adultos mayores.  
 **Tecnologías**: sensores de presión, Arduino, microSD, impresión 3D.  
 🔗 [Ver repositorio](https://docs.google.com/spreadsheets/d/1f1cFqELP_WklWRQha_4RqRv8rP0gOofBgyyzWoj63zY/edit?usp=sharing)
 
 ---
 
-### * ThermoPoints – Fundamentos de Biodiseño (2022)
+### * ThermoPoints – Fundamentos de Biodiseño UPCH (2022)
 **Descripción**: Plataforma de detección térmica para el monitoreo de pie diabético.  
 **Prototipo de baja fidelidad con cámara térmica y procesamiento de imágenes.**  
 🔗 [Ver repositorio](https://docs.google.com/spreadsheets/d/1f1cFqELP_WklWRQha_4RqRv8rP0gOofBgyyzWoj63zY/edit?usp=sharing)
