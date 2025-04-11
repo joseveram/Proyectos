@@ -28,6 +28,7 @@ Este repositorio reúne los proyectos desarrollados a lo largo de mi formación 
 
 ## 👤 Autor
 
-**José Vera Meza**  
+**José Fernando Vera Meza**  
 Estudiante de Ingeniería Biomédica – PUCP/UPCH  
 Contacto: [jos3veram@gmail.com] [jose.vera.m@upch.pe] [a20202515@pucp.edu.pe]
+Linkedin: [www.linkedin.com/in/josé-vera]
