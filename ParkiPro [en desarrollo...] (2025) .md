@@ -12,18 +12,18 @@ El diseño de la prótesis es personalizado a través de escaneo 3D, garantizand
 
 ______________________________________________________________________
 
-## 📂 Recursos del Proyecto (Acceso restringido):
+## Recursos del Proyecto (Acceso restringido):
 
 ### 📁 Carpeta general del proyecto
-[📁💾 Ver en Google Drive](https://drive.google.com/drive/u/2/folders/1jUzAYHSpcX_H1X8Ru-A4L9icyewhnsMF)
+[Ver en Google Drive](https://drive.google.com/drive/u/2/folders/1jUzAYHSpcX_H1X8Ru-A4L9icyewhnsMF)
 
 ### 📃 Redacción del proyecto
-[📃✍🏻 Documento en Google Docs](https://docs.google.com/document/d/1Ec8uLRDF2JVYlUXgEO6ulVlIKZ9bIW2iNUSkWpF2iSw/edit?tab=t.0#heading=h.qg66jtjjse9j)
+[Documento en Google Docs](https://docs.google.com/document/d/1Ec8uLRDF2JVYlUXgEO6ulVlIKZ9bIW2iNUSkWpF2iSw/edit?tab=t.0#heading=h.qg66jtjjse9j)
 
 ### 🗓️ Plan de trabajo
-[✍🏻📌🗓️ Ver hoja de cálculo](https://docs.google.com/spreadsheets/d/1KnDVQ8B4EnBBzy4kNTRztHy6_4Emkwb8/edit?usp=drive_link&ouid=112061732916072614872&rtpof=true&sd=true)
+[Ver hoja de cálculo](https://docs.google.com/spreadsheets/d/1KnDVQ8B4EnBBzy4kNTRztHy6_4Emkwb8/edit?usp=drive_link&ouid=112061732916072614872&rtpof=true&sd=true)
 
 ### 📚 Carpeta de pasantes 2025
-[📒📃📚 Ver documentos](https://drive.google.com/drive/u/2/folders/1JLlFhqdvsa1nRAs6ARdmL7sbK0ZRvL8C)
+[Ver documentos](https://drive.google.com/drive/u/2/folders/1JLlFhqdvsa1nRAs6ARdmL7sbK0ZRvL8C)
 
 
