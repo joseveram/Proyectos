@@ -8,7 +8,7 @@
 **Curso**: Fundamentos de Biodiseño – Ingeniería Biomédica – UPCH  
 **Periodo**: 2022-II
 
-![Imagen del grupo](https://ruta/a/tu/[imagen.jpg](https://github.com/joseveram/Proyectos_/blob/main/232222.PNG))
+![Imagen del grupo](https://github.com/joseveram/Proyectos_/blob/main/232222.PNG)
 ---
 
 ## 🧠 Resumen
