@@ -12,7 +12,7 @@ El diseño de la prótesis es personalizado a través de escaneo 3D, garantizand
 
 ______________________________________________________________________
 
-## Recursos del Proyecto (Acceso restringido):
+## Recursos del Proyecto (Acceso restringido 🚫):
 
 ### 📁 Carpeta general del proyecto
 [Ver en Google Drive](https://drive.google.com/drive/u/2/folders/1jUzAYHSpcX_H1X8Ru-A4L9icyewhnsMF)
