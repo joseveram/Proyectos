@@ -1,4 +1,4 @@
-## 📌 VibraBug – Prevención del Dengue en Zonas Rurales (2024)
+## 📌 VibraBug – Makerthon PUCP (2024)
 
 **Descripción:**  
 Dispositivo autónomo de bajo costo que funciona con energía solar y cuenta con un temporizador oscilante analógico. Su mecanismo activa una vibración intermitente en recipientes con agua estancada, como floreros o baldes, impidiendo que los mosquitos *Aedes aegypti* se posen y depositen sus huevos.  
