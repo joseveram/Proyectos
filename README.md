@@ -9,7 +9,7 @@ Este repositorio reúne los proyectos desarrollados a lo largo de mi formación 
 ### 🚶‍♀️ StrideSafe – Biodiseño 1 (2024)
 **Descripción**: Sistema portátil que mide presión plantar para prevenir caídas en adultos mayores.  
 **Tecnologías**: sensores de presión, Arduino, microSD, impresión 3D.  
-🔗 [Ver proyecto](./StrideSafe%20-%20Biodise%C3%B1o%201%20(2024)/README.md)
+🔗 [Ver proyecto](https://docs.google.com/spreadsheets/d/1f1cFqELP_WklWRQha_4RqRv8rP0gOofBgyyzWoj63zY/edit?usp=sharing)
 
 ---
 
